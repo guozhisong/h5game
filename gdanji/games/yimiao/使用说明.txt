@@ -1,0 +1,5 @@
+广告位在images/123456.jpg
+
+链接编辑index.php 
+
+http://mp.weixin.qq.com/s?__biz=MzA5MTAxNjIwMA==&mid=406799981&idx=1&sn=cf3176eb1f36d1eaf88404b68d02f5a3#rd

@@ -1,0 +1,28 @@
+执行日期：20160925150508
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=10_64&userId=1236&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1474744466&sign=1f39a0ea165b07e7497c26f224580881&userSex=%E7%94%B7&channelExt=1236&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=201609251536632f6c2ae3602a40b23b&userId=1236&money=5.00&ext=201609251536632f6c2ae3602a40b23b&time=1474787108&sign=a2adab81fc242eab0f17dc2ee1b38371
+returnResult: {"code":0,"msg":"success","data":[]}
+执行日期：20161017002857
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=10_64&userId=4824&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1476631057&sign=6d8444b7f2e9dc37dcec0a5e75d9e0a0&userSex=%E7%94%B7&channelExt=4824&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=201610170072303dbe82eb9aa0fb717a&userId=4824&money=2.00&ext=201610170072303dbe82eb9aa0fb717a&time=1476635337&sign=529223da6f7ffdce6f9eba239b923012
+returnResult: {"code":0,"msg":"success","data":[]}
+执行日期：20161026103834
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=14_64&userId=4856&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1477448368&sign=d99ac9669b2343d3988da244299ac963&userSex=%E7%94%B7&channelExt=4856&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=20161026107ac5804ba619c7be4563f0&userId=4856&money=6.00&ext=20161026107ac5804ba619c7be4563f0&time=1477449514&sign=e52422e41809c62a13109ba257b9c423
+returnResult: {"code":0,"msg":"success","data":[]}
+执行日期：20170210135450
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=8_64&userId=5368&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1486704619&sign=fa7de61ba4be129d4e7d75c0fc44efb6&userSex=%E7%94%B7&channelExt=5368&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=20170210130cf0d214c7bf6a83c1bd1b&userId=5368&money=2.00&ext=20170210130cf0d214c7bf6a83c1bd1b&time=1486706090&sign=64aaf7b0e9dddcafcf0199d6731098e4
+returnResult: {"code":0,"msg":"success","data":[]}
+执行日期：20170413074053
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=10_64&userId=5757&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1492040324&sign=b6e4e116fd2e431288bcd6fd0023d33a&userSex=%E7%94%B7&channelExt=5757&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=2017041307d334206c9173fd262d1967&userId=5757&money=2.00&ext=2017041307d334206c9173fd262d1967&time=1492040453&sign=64da10fa93bd101a61a4a1cc8ffea002
+returnResult: {"code":0,"msg":"success","data":[]}
+执行日期：20170413074241
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=10_64&userId=5757&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1492040324&sign=b6e4e116fd2e431288bcd6fd0023d33a&userSex=%E7%94%B7&channelExt=5757&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=2017041307f7f70d11bd4682976277e6&userId=5757&money=6.00&ext=2017041307f7f70d11bd4682976277e6&time=1492040561&sign=0a868a92e20818db58ecd4f5b7919526
+returnResult: {"code":0,"msg":"success","data":[]}
+执行日期：20170413101737
+postUrl: http://open.juhesdk.twan.cn/paycallback.php?url_flag=10_64&userId=5757&userName=%E8%BF%99%E5%AE%B6%E4%BC%99%E6%B2%A1%E5%86%99&time=1492040324&sign=b6e4e116fd2e431288bcd6fd0023d33a&userSex=%E7%94%B7&channelExt=5757&userImg=http%3A%2F%2Fwww.81900.com%2Fimg%2Fdefault_pic.png
+postdata: orderId=201704131054cd6f4d9354ad4b86397b&userId=5757&money=2.00&ext=201704131054cd6f4d9354ad4b86397b&time=1492049857&sign=1c5779e19f52aef85b68fd2a73603a00
+returnResult: {"code":0,"msg":"success","data":[]}

@@ -1,0 +1,45 @@
+/* 解决IE6bug */
+* html,*html body /* 修正IE6振动bug */{background-image:url(about:blank);background-attachment:fixed;}
+html,body{width: 100%;height: 100%;}
+/*login*/
+.w980{width: 980px;margin: 0 auto;}
+.login_bg{overflow-y: scroll;}
+#login{width: 100%;position: relative;}
+.login_tit{font-size: 20px;width: 100%;position: relative;overflow: hidden;}
+.login_tit em{width: 100%;height: 100px;filter: alpha(opacity=60);-moz-opacity: 0.60;opacity: 0.60;position: absolute;left: 0;top:0;display: block;z-index: 0;}
+.login_tit p{position: relative;z-index: 9;margin:auto;width: 526px;padding: 10px 0;}
+.login_tit p span{float: left;padding-right: 20px;}
+.login_tit p b{width: 245px;display: block;float: left;padding: 8px 20px;line-height: 28px;font-weight: 100;}
+.loginbox{width: 650px;height: 285px;position: relative;margin:8% auto;}
+.login_black {filter: alpha(opacity=70);-moz-opacity: 0.70;opacity: 0.70;position: absolute;width:650px;height: 285px;border-radius: 8px;left: 0;top: 0;}
+.loginwelcome{padding: 0 0 10px 0;margin-bottom: 10px;}
+.loginwelcome b{display: block;background:url(images/user.gif) no-repeat left center;padding-left: 40px;font-size: 24px;font-weight:100;height: 33px;line-height:33px;margin: 0 auto;}
+#loginform{position: absolute;z-index: 9;width:440px;left: 50%;margin-left: -220px;top: 20px;}
+#loginform p{display: block;padding: 6px 0;line-height: 36px;height: 36px;font-size: 16px;}
+.inputbox{font-weight:200;font-size:16px;line-height:1;width:325px;padding:3px;margin-right:6px;outline:0;border-radius: 5px;float: left;}
+#loginform p b{width:80px;float: left;font-weight: 100;font-size: 18px;}
+#login .img_captcha{display: block;float: left;padding: 8px 0;height: 19px;line-height: 19px;}
+#login .img_captcha img{float:left;margin-right: 7px;}
+#login .img_captcha a{text-decoration: underline;}
+.w216{width: 216px!important;}
+#footer{height: 30px;line-height: 30px;width: 100%;position: relative;clear: both;}
+.login_footer{position: absolute!important;bottom: 0;left: 0;}
+/*login  color*/
+.login_bg{background: url(images/login_bg.jpg) no-repeat center top;}
+*html body.login_bg{background: url(images/login_bg.jpg) no-repeat center!important;}
+.login_tit em{background: #000;}
+.login_tit p b{border-left: 1px #FFB629 solid;}
+.login_black {background-color: #050C2D;}
+.login_black,#loginform p .input{border: 1px solid #FFB629;}
+.loginwelcome,.login_tit em{border-bottom: 1px #FFB629 solid;}
+#loginform,#footer,.login_tit{color: #fff;}
+#loginform p .input{color:#555;background-color:#eee;}
+#login .img_captcha a{color: #FF6D6D;}
+#login .img_captcha a:hover{color: #F24545;}
+#footer{background-color: #000;border-top: 1px solid #FFB629;}
+.login_footer{filter: alpha(opacity=60);-moz-opacity: 0.60;opacity: 0.60;}
+.login_footer a{color: #fff;}
+.btn{display:inline-block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0 10px 1px;=-webkit-border-radius:5px;border-radius:5px;text-decoration:none;white-space:nowrap;cursor:pointer;-webkit-appearance:none;font-family:"微软雅黑",Arial, sans-serif;border: none;font-weight: 100;}
+.btn_center{padding: 10px 45px;_padding: 5px 25px;background-color:#F7CB00;color:#000;font-size: 20px;}
+.btn_center:hover{background-color:#ED7100;color: #fff;}
+#login .logo img{display: none;}

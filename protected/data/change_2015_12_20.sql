@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `photo` VARCHAR(255)  NOT NULL  DEFAULT ''  AFTER `huiyuan`;

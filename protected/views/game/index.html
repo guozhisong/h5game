@@ -1,0 +1,28 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="http://h5.91yxq.com/static/jquery.min.js"></script>
+</head>
+<body>
+    <div class="btn" style="position: absolute; width: 50px; height: 30px; text-align: center; background: #666; z-index: 10; cursor:pointer;">切换按钮</div>
+    <div class="box" style="width: 412px; margin: 0 auto;">
+        <iframe width="420px" height="100%" scrolling="no" frameborder="0" src="http://www.91yxq.com"></iframe>
+    </div>
+    <script>
+        $('.btn').click(function () {
+            var width = $('.box').width();
+            if (width == 412) {
+                $('.box').css({'width': '100%', 'margin': '0'});
+                $('.box iframe').width('100%');
+            } else {
+                $('.box').css({'width': '412px', 'margin': '0 auto'});
+                $('.box iframe').width('412px');
+            }
+
+        });
+    </script>
+</body>
+</html>

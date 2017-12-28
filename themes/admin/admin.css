@@ -1,0 +1,25 @@
+.errorMessage{
+	color: red;
+}
+.list-view{
+	display:none;
+}
+.pager{
+	display:none;
+}
+.used{
+	display:block;
+}
+/* .pager ul li.hidden{
+	display:none;
+} */
+.yiiPager .first, .yiiPager .last{
+	display:none;
+}
+.errorSummary{
+	margin: 10px 0px;
+    color: red;
+}
+.mytree ul{
+	padding-left: 30px;
+}

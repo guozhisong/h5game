@@ -1,0 +1,51 @@
+.icon-blank{background:url('icons/blank.gif') no-repeat}
+.icon-add{background:url('icons/edit_add.png') no-repeat}
+.icon-edit{background:url('icons/pencil.png') no-repeat}
+.icon-remove{background:url('icons/edit_remove.png') no-repeat}
+.icon-save{background:url('icons/filesave.png') no-repeat}
+.icon-cut{background:url('icons/cut.png') no-repeat}
+.icon-ok{background:url('icons/ok.png') no-repeat}
+.icon-no{background:url('icons/no.png') no-repeat}
+.icon-cancel{background:url('icons/cancel.png') no-repeat}
+.icon-reload{background:url('icons/reload.png') no-repeat}
+.icon-search{background:url('icons/search.png') no-repeat}
+.icon-print{background:url('icons/print.png') no-repeat}
+.icon-help{background:url('icons/help.png') no-repeat}
+.icon-undo{background:url('icons/undo.png') no-repeat}
+.icon-redo{background:url('icons/redo.png') no-repeat}
+.icon-back{background:url('icons/back.png') no-repeat}
+.icon-sum{background:url('icons/sum.png') no-repeat}
+.icon-tip{background:url('icons/tip.png') no-repeat}
+.icon-up{background:url('icons/up.png') no-repeat}
+.icon-down{background:url('icons/down.png') no-repeat}
+.icon-mini-add{background:url('icons/mini_add.png') no-repeat 2px 2px}
+.icon-mini-edit{background:url('icons/mini_edit.png') no-repeat 2px 2px}
+.icon-mini-refresh{background:url('icons/mini_refresh.png') no-repeat 3px 2px}
+
+.icon b{width:16px;height: 16px;background: url(icons/icon.gif) no-repeat;display: block;float: left;margin:0 4px;}
+.icon b.luru{background-position:0 -1164px;}
+.icon b.cx{background-position:0 -412px;}
+.icon b.qr{background-position:0 -668px;}
+.icon b.bg{background-position:0 -988px;}
+.icon b.zy{background-position:0 -1005px;}
+.icon b.ka{background-position:0 -1508px;height: 14px;}
+.icon b.zhuli{background-position: 0 -1415px;}
+.icon b.ck{background-position: 0 -1626px;height: 15px;}
+.icon b.tj{background-position: 0 -764px;}
+.icon b.yj{background-position: 0 -428px;}
+.icon b.fy{background-position: 0 -1228px;}
+.icon b.jl{background-position: 0 -717px;}
+.icon b.tz{background-position: 0 -1276px;}
+.icon b.ch{background-position: 0 -636px;}
+.icon b.ph{background-position: 0 -668px;}
+.icon b.hh{background-position: 0 -1401px;}
+.icon b.zw{background-position: 0 -557px;}
+.icon b.hd{background-position: 0 0px;}
+.icon b.gg{background-position: 0 -844px;}
+.icon b.zc{background-position: 0 -1446px;}
+.icon b.hk{background-position: 0 -1744px;}
+.icon b.pk{background-position: 0 -119px;height: 14px;}
+.icon b.dd{background-position: 0 -701px;}
+.icon b.hy{background-position: 0 -1036px;}
+.icon b.wt{background-position: 0 -972px;}
+

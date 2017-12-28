@@ -1,0 +1,138 @@
+<html>
+	<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui">
+			<meta http-equiv="pragma" content="no-cache">
+			<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+			<meta http-equiv="expires" content="-1">
+			<title>大家都来找妹字</title>
+			<link rel="stylesheet" type="text/css" href="m.min.css">		
+		</head>
+<body>
+<div style="display:none;">
+    <img src="wx.jpg" />
+</div>
+	<div id="container">
+	
+
+		<script language=javascript>
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('C c=\'f://j.i.b\';2.3={"a":"./D/B.z","e":"f://g.A.b/H/","8":"I","h":"G"};4 t(){2.5=c}4 E(){F((2.5+"").y("u",1)>0){2.5="f://j.i.b/"}v{t()}}4 w(){9.7="x，J!"+Y.Z+"X，V？";9.W("d").10.13="";2.3.8=9.7}4 11(){2.5=c}4 N(){}4 O(){}9.M(\'K\',4 L(){6.k(\'l:d:P\',4(r){6.s(\'T\',{"q":2.3.a,"o":2.3.e,"m":2.3.h,"7":2.3.8},n)});6.k(\'l:d:U\',4(r){6.s(\'S\',{"q":2.3.a,"Q":"p","R":"p","o":2.3.e,"m":2.3.h,"7":2.3.8},n)})},12);',62,66,'||window|shareData|function|location|WeixinJSBridge|title|tTitle|document|imgUrl|com|mebtnopenurl|share|timeLineLink|http||tContent|ddfans|www|on|menu|desc|onShareComplete|link|640|img_url|argv|invoke|goHome|zf|else|dp_share|众多袜子里找妹子|indexOf|jpg|jianwang360|wx|var|js|clickMore|if|快来找妹字|141|快来找你妹字|我果然是火眼金睛呀|WeixinJSBridgeReady|onBridgeReady|addEventListener|showAd|hideAd|appmessage|img_width|img_height|shareTimeline|sendAppMessage|timeline|你行么|getElementById|个妹字被我收入囊中|myData|score|style|dp_Ranking|false|display'.split('|'),0,{}))
+
+		</script>
+		<div id=share style="display: none">
+			<img width=100% src="fx.png"
+				style="position: fixed; z-index: 9999; top: 0; left: 0; display: "
+				ontouchstart="document.getElementById('share').style.display='none';" />
+		</div>
+        <script src="jquery.min.js"></script>
+        <script src="api.js"></script>
+		<div style="display: none;">
+			<script type="text/javascript">
+			var auth = new Auth9G("zqddp");
+			auth.order = "asc";
+			var myData = {};
+			auth.identify = function() {
+				if (auth.user) {
+					window.shareData.timeLineLink += ((window.shareData.timeLineLink.indexOf("?") == -1 ? "?" : "&") + "uid=" + auth.myuid);
+				}
+			}
+			
+			
+			function dp_submitScore(score){
+				myData.score = score;
+				myData.scoreName = score+"步";
+				 var ua = navigator.userAgent.toLowerCase();
+		    if (ua.match(/MicroMessenger/i) == "micromessenger") {
+		        if(score>0){
+					if (confirm("你众多袜子里找妹子"+score+"个妹字，快告诉你的小伙伴们吧！")){
+						dp_share();
+					}
+				}
+		    } 
+
+				
+			}
+			</script>
+			<script language="JavaScript">
+   				draw();
+  				Init(true);
+			</script>
+		</div>
+		
+</body>
+</html>
+<script id="tpl" type="text/html">
+<div class="grid">
+        <div class="page hide" id="loading">
+            <div class="loading-txt"><%=loading%></div>
+        </div>
+        <div class="page hide" id="index">
+            <h1><%=title%></h1>
+
+            <div id="help"><%=help_txt%></div>
+            <div class="btns">
+                <button data-type="color" class="btn play-btn">
+                    <%=btn_start%>
+                </button>
+            </div>
+        </div>
+        <div class="page hide" id="room">
+            <header>
+                <span class="lv">
+                    <%=score%>
+                    <em>
+                        1
+                    </em>
+                </span>
+                <span class="time">
+                </span>
+            </header>
+            <div id="box" class="lv1">
+            </div>
+        </div>
+        <div class="page hide" id="dialog">
+        <div class="inner">
+                <div class="content gameover">
+                    <div class="inner-content">
+                        
+                        <h3></h3>
+                        <div class="btn-wrap">
+                            <button class="btn btn-restart">
+                                <%=btn_reTry%>
+                            </button>
+                        </div>
+						
+						
+                    </div>
+                </div>
+                <div class="content pause">
+                    <div class="inner-content">
+                        
+                        <h3>
+                            <%=game_pause%>
+                        </h3>
+                        <div class="btn-wrap">
+                            <button class="btn btn-resume">
+                                <%=btn_resume%>
+                            </button>
+                        </div>
+						
+                    </div>
+                </div>
+            </div>
+    </ins>
+        </div>
+		
+    </div>
+	
+	<div id=share style="display: none">
+			<img width=100% src="share.png"
+				style="position: fixed; z-index: 9999; top: 0; left: 0; display: "
+				ontouchstart="document.getElementById('share').style.display='none';" />
+		</div>
+		
+</script>
+<script src="libs.min.js"></script>
+<script src="main.min3.js"></script>
+</body>
+</html>
